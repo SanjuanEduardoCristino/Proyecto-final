@@ -15,6 +15,7 @@ namespace Proyecto_final
         public Form1()
         {
             InitializeComponent();
+            INITIALIZER();
         }
 
         private void Sesion()
@@ -33,6 +34,11 @@ namespace Proyecto_final
                 if (reader.Read())
                 {
                     MessageBox.Show("Welcome master");
+
+                    this.Hide();
+
+                    Form formulario = new Form2();
+                    formulario.Show();
                 }
                 else
                 {
@@ -54,9 +60,15 @@ namespace Proyecto_final
 
         }
 
+        private void INITIALIZER()
+        {
+            pswTxtBox.Text = "";
+            pswTxtBox.PasswordChar = '*';
+            pswTxtBox.MaxLength = 255;
+        }
         private void pswTxtBox_TextChanged(object sender, EventArgs e)
         {
-
+       
         }
 
         private void btnLogin_Click(object sender, EventArgs e)

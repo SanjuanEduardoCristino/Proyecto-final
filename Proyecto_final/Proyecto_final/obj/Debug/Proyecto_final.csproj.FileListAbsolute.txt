@@ -25,3 +25,6 @@ C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\bin\D
 C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\bin\Debug\MySql.Data.xml
 C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\obj\Debug\Proyecto_final.csproj.CopyComplete
 C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\obj\Debug\Proyecto_final.Form2.resources
+C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\obj\Debug\Proyecto_final.Form3.resources
+C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\obj\Debug\Proyecto_final.Form4.resources
+C:\Users\edu15\Desktop\GIthub\Proyecto-final\Proyecto_final\Proyecto_final\obj\Debug\Proyecto_final.Form5.resources
